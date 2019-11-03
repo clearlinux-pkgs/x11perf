@@ -6,7 +6,7 @@
 #
 Name     : x11perf
 Version  : 1.6.1
-Release  : 11
+Release  : 12
 URL      : http://xorg.freedesktop.org/releases/individual/app/x11perf-1.6.1.tar.gz
 Source0  : http://xorg.freedesktop.org/releases/individual/app/x11perf-1.6.1.tar.gz
 Source99 : http://xorg.freedesktop.org/releases/individual/app/x11perf-1.6.1.tar.gz.sig
